@@ -30,7 +30,7 @@ python3 main.py
 ```
 
 #### Possible transactions
-1.- Ingresar un gasto
-2.- Visualizar un gasto
-3.- Eliminar un gasto
-4.- Salir
+1. Ingresar un gasto
+2. Visualizar un gasto
+3. Eliminar un gasto
+4. Salir
