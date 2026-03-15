@@ -1,4 +1,4 @@
-#Project expenses in Python
+# Project expenses in Python
 
 ## What does it do?
 The program has a console-based menu with four options: enter an expense, view a specific expense, delete an expense, and exit the program
